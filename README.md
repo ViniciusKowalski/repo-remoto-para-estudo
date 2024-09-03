@@ -1,2 +1,2 @@
-# repo-remoto-para-estudo
-repositóerio para estudo
+# Repositório Local depois do clone
+Repositório de estudo, remoto depois do clone
