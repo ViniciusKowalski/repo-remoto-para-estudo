@@ -1,1 +1,0 @@
-conteuno do arquivo "committaedo" na branch remota.
